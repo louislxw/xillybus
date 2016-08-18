@@ -1,0 +1,21 @@
+Execution time is 16755.000000 us
+Execution time is 11834.000000 us
+Execution time is 11851.000000 us
+Execution time is 11870.000000 us
+Execution time is 11888.000000 us
+Execution time is 11778.000000 us
+Execution time is 11852.000000 us
+Execution time is 11833.000000 us
+Execution time is 11815.000000 us
+Execution time is 11834.000000 us
+Execution time is 11889.000000 us
+Execution time is 11833.000000 us
+Execution time is 11889.000000 us
+Execution time is 11870.000000 us
+Execution time is 11446.000000 us
+Execution time is 11852.000000 us
+Execution time is 11870.000000 us
+Execution time is 11870.000000 us
+Execution time is 11797.000000 us
+Execution time is 11870.000000 us
+

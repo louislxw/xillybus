@@ -1,0 +1,21 @@
+Execution time is 19943.000000 us
+Execution time is 20146.000000 us
+Execution time is 20220.000000 us
+Execution time is 20202.000000 us
+Execution time is 20275.000000 us
+Execution time is 20201.000000 us
+Execution time is 20275.000000 us
+Execution time is 30321.000000 us
+Execution time is 20183.000000 us
+Execution time is 20201.000000 us
+Execution time is 20220.000000 us
+Execution time is 30229.000000 us
+Execution time is 20276.000000 us
+Execution time is 20220.000000 us
+Execution time is 20238.000000 us
+Execution time is 20202.000000 us
+Execution time is 30210.000000 us
+Execution time is 30265.000000 us
+Execution time is 20202.000000 us
+Execution time is 20202.000000 us
+

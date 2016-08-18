@@ -1,0 +1,2 @@
+Most recorded rtt value is 14303.000000, recorded 6 times
+Most recorded rtt value is 14340.000000, recorded 6 times

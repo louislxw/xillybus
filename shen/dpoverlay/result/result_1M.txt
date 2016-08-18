@@ -1,0 +1,21 @@
+Execution time is 49140.000000 us
+Execution time is 49877.000000 us
+Execution time is 49196.000000 us
+Execution time is 49214.000000 us
+Execution time is 59149.000000 us
+Execution time is 49269.000000 us
+Execution time is 49103.000000 us
+Execution time is 49270.000000 us
+Execution time is 49213.000000 us
+Execution time is 59407.000000 us
+Execution time is 49140.000000 us
+Execution time is 49140.000000 us
+Execution time is 49012.000000 us
+Execution time is 59241.000000 us
+Execution time is 49306.000000 us
+Execution time is 49269.000000 us
+Execution time is 49085.000000 us
+Execution time is 49085.000000 us
+Execution time is 59131.000000 us
+Execution time is 49269.000000 us
+
