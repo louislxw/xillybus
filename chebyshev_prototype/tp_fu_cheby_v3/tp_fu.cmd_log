@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj tp_fu_v2 -o F:/dpoverlay/tp_fu_v2/tp_fu.tfi -lib work F:/dpoverlay/tp_fu_v2//tp_fu.v -module tp_fu -template D:/Xilinx/14.6/ISE_DS/ISE//data/tfi.tft -deleteonerror 

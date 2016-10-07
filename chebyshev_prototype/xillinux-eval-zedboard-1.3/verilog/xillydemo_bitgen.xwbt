@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=F:\xillybus\chebyshev_prototype\xillinux-eval-zedboard-1.3\verilog\xillydemo.ncd
+OUTFILE=F:\xillybus\chebyshev_prototype\xillinux-eval-zedboard-1.3\verilog\xillydemo.bit
+FAMILY=Zynq
+PART=xc7z020-1clg484
+WORKINGDIR=F:\xillybus\chebyshev_prototype\xillinux-eval-zedboard-1.3\verilog
+LICENSE=ISE
+USER_INFO=179624505_206273298_210558848_520

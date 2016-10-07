@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="xillydemo" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/xillydemo C:|Users|admin|Documents|NTU_Study|Overlay_Project|Xillybus|SP_Overlay|fft|xillinux-eval-zedboard-1.3|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/audio - i2s_audio</ClosedNode>
+         <ClosedNode>/xillydemo C:|Users|admin|Documents|NTU_Study|Overlay_Project|Xillybus|SP_Overlay|fft|xillinux-eval-zedboard-1.3|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/smbus - smbus</ClosedNode>
+         <ClosedNode>/xillydemo C:|Users|admin|Documents|NTU_Study|Overlay_Project|Xillybus|SP_Overlay|fft|xillinux-eval-zedboard-1.3|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/xillybus_ins - xillybus</ClosedNode>
+         <ClosedNode>/xillydemo C:|Users|xli045|Desktop|xillydemo|chebyshev|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/audio - i2s_audio</ClosedNode>
+         <ClosedNode>/xillydemo C:|Users|xli045|Desktop|xillydemo|chebyshev|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/cpu_1 - top_cpu_1</ClosedNode>
+         <ClosedNode>/xillydemo C:|Users|xli045|Desktop|xillydemo|chebyshev|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/cpu_2 - top_cpu_2</ClosedNode>
+         <ClosedNode>/xillydemo C:|Users|xli045|Desktop|xillydemo|chebyshev|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/cpu_3 - top_cpu_3</ClosedNode>
+         <ClosedNode>/xillydemo C:|Users|xli045|Desktop|xillydemo|chebyshev|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/cpu_4 - top_cpu_4</ClosedNode>
+         <ClosedNode>/xillydemo C:|Users|xli045|Desktop|xillydemo|chebyshev|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/cpu_5 - top_cpu_5</ClosedNode>
+         <ClosedNode>/xillydemo C:|Users|xli045|Desktop|xillydemo|chebyshev|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/cpu_6 - top_cpu_6</ClosedNode>
+         <ClosedNode>/xillydemo C:|Users|xli045|Desktop|xillydemo|chebyshev|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/cpu_7 - top_cpu_7</ClosedNode>
+         <ClosedNode>/xillydemo C:|Users|xli045|Desktop|xillydemo|chebyshev|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/smbus - smbus</ClosedNode>
+         <ClosedNode>/xillydemo C:|Users|xli045|Desktop|xillydemo|chebyshev|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/xillybus_ins - xillybus</ClosedNode>
+         <ClosedNode>/xillydemo F:|xillybus|chebyshev_prototype|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/audio - i2s_audio</ClosedNode>
+         <ClosedNode>/xillydemo F:|xillybus|chebyshev_prototype|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/cpu_1 - top_cpu_1</ClosedNode>
+         <ClosedNode>/xillydemo F:|xillybus|chebyshev_prototype|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/cpu_2 - top_cpu_2</ClosedNode>
+         <ClosedNode>/xillydemo F:|xillybus|chebyshev_prototype|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/cpu_3 - top_cpu_3</ClosedNode>
+         <ClosedNode>/xillydemo F:|xillybus|chebyshev_prototype|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/cpu_4 - top_cpu_4</ClosedNode>
+         <ClosedNode>/xillydemo F:|xillybus|chebyshev_prototype|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/cpu_5 - top_cpu_5</ClosedNode>
+         <ClosedNode>/xillydemo F:|xillybus|chebyshev_prototype|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/cpu_6 - top_cpu_6</ClosedNode>
+         <ClosedNode>/xillydemo F:|xillybus|chebyshev_prototype|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/cpu_7 - top_cpu_7</ClosedNode>
+         <ClosedNode>/xillydemo F:|xillybus|chebyshev_prototype|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/smbus - smbus</ClosedNode>
+         <ClosedNode>/xillydemo F:|xillybus|chebyshev|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/audio - i2s_audio</ClosedNode>
+         <ClosedNode>/xillydemo F:|xillybus|chebyshev|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/cpu_3 - top_cpu_3</ClosedNode>
+         <ClosedNode>/xillydemo F:|xillybus|chebyshev|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/cpu_4 - top_cpu_4</ClosedNode>
+         <ClosedNode>/xillydemo F:|xillybus|chebyshev|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/cpu_5 - top_cpu_5</ClosedNode>
+         <ClosedNode>/xillydemo F:|xillybus|chebyshev|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/cpu_6 - top_cpu_6</ClosedNode>
+         <ClosedNode>/xillydemo F:|xillybus|chebyshev|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/cpu_7 - top_cpu_7</ClosedNode>
+         <ClosedNode>/xillydemo F:|xillybus|chebyshev|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/smbus - smbus</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>xillydemo (C:/Users/xli045/Desktop/chebyshev_prototype/xillinux-eval-zedboard-1.3/verilog/src/xillydemo.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000168000000020000000000000000000000000200000064ffffffff000000810000000300000002000001680000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>xillydemo (C:/Users/xli045/Desktop/chebyshev_prototype/xillinux-eval-zedboard-1.3/verilog/src/xillydemo.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>CORE Generator</ClosedNode>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Implement Design/Map</ClosedNode>
+         <ClosedNode>Implement Design/Map/Generate Post-Map Static Timing</ClosedNode>
+         <ClosedNode>Implement Design/Place &amp; Route</ClosedNode>
+         <ClosedNode>Implement Design/Translate</ClosedNode>
+         <ClosedNode>Synthesize - XST</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Generate Programming File</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000168000000010000000100000000000000000000000064ffffffff000000810000000000000001000001680000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Generate Programming File</CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000718000000040101000100000000000000000000000064ffffffff000000810000000000000004000004fc0000000100000000000000fe0000000100000000000000980000000100000000000000860000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>alu_core.v</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000109000000010001000100000000000000000000000064ffffffff000000810000000000000001000001090000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000183000000010000000100000000000000000000000064ffffffff000000810000000000000001000001830000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <SourceProcessView>000000ff00000000000000020000016f0000011b01000000050100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/xillydemo F:|xillybus|chebyshev_prototype|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/audio - i2s_audio</ClosedNode>
+         <ClosedNode>/xillydemo F:|xillybus|chebyshev_prototype|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/cpu_1 - top_cpu_1</ClosedNode>
+         <ClosedNode>/xillydemo F:|xillybus|chebyshev_prototype|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/cpu_2 - top_cpu_2</ClosedNode>
+         <ClosedNode>/xillydemo F:|xillybus|chebyshev_prototype|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/cpu_3 - top_cpu_3</ClosedNode>
+         <ClosedNode>/xillydemo F:|xillybus|chebyshev_prototype|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/cpu_4 - top_cpu_4</ClosedNode>
+         <ClosedNode>/xillydemo F:|xillybus|chebyshev_prototype|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/cpu_5 - top_cpu_5</ClosedNode>
+         <ClosedNode>/xillydemo F:|xillybus|chebyshev_prototype|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/cpu_6 - top_cpu_6</ClosedNode>
+         <ClosedNode>/xillydemo F:|xillybus|chebyshev_prototype|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/cpu_7 - top_cpu_7</ClosedNode>
+         <ClosedNode>/xillydemo F:|xillybus|chebyshev_prototype|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/smbus - smbus</ClosedNode>
+         <ClosedNode>/xillydemo F:|xillybus|chebyshev_prototype|xillinux-eval-zedboard-1.3|verilog|src|xillydemo.v/xillybus_ins - xillybus</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>xillydemo (F:/xillybus/chebyshev_prototype/xillinux-eval-zedboard-1.3/verilog/src/xillydemo.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000012b000000020000000000000000000000000200000064ffffffff0000008100000003000000020000012b0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>xillydemo (F:/xillybus/chebyshev_prototype/xillinux-eval-zedboard-1.3/verilog/src/xillydemo.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000168000000010000000100000000000000000000000064ffffffff000000810000000000000001000001680000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>ISim Simulator</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000168000000010000000100000000000000000000000064ffffffff000000810000000000000001000001680000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_XCO" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" />
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+</Project>
