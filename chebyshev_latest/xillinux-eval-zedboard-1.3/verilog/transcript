@@ -1,0 +1,151 @@
+# Reading D:/modeltech64_10.1/tcl/vsim/pref.tcl 
+# //  ModelSim SE-64 10.1 Dec  5 2011 
+# //
+# //  Copyright 1991-2011 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# do {test_top.fdo} 
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim SE-64 vlog 10.1 Compiler 2011.12 Dec  5 2011
+# -- Compiling module memtest_regfile
+# 
+# Top level modules:
+# 	memtest_regfile
+# Model Technology ModelSim SE-64 vlog 10.1 Compiler 2011.12 Dec  5 2011
+# -- Compiling module memtest
+# 
+# Top level modules:
+# 	memtest
+# Model Technology ModelSim SE-64 vlog 10.1 Compiler 2011.12 Dec  5 2011
+# -- Compiling module regfile
+# 
+# Top level modules:
+# 	regfile
+# Model Technology ModelSim SE-64 vlog 10.1 Compiler 2011.12 Dec  5 2011
+# -- Compiling module inst_mem
+# 
+# Top level modules:
+# 	inst_mem
+# Model Technology ModelSim SE-64 vlog 10.1 Compiler 2011.12 Dec  5 2011
+# -- Compiling module alu_core
+# 
+# Top level modules:
+# 	alu_core
+# Model Technology ModelSim SE-64 vlog 10.1 Compiler 2011.12 Dec  5 2011
+# -- Compiling module fifo_32x512
+# 
+# Top level modules:
+# 	fifo_32x512
+# Model Technology ModelSim SE-64 vlog 10.1 Compiler 2011.12 Dec  5 2011
+# -- Compiling module top_cpu
+# 
+# Top level modules:
+# 	top_cpu
+# Model Technology ModelSim SE-64 vlog 10.1 Compiler 2011.12 Dec  5 2011
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# Model Technology ModelSim SE-64 vlog 10.1 Compiler 2011.12 Dec  5 2011
+# -- Compiling module test_top
+# 
+# Top level modules:
+# 	test_top
+# Model Technology ModelSim SE-64 vlog 10.1 Compiler 2011.12 Dec  5 2011
+# -- Compiling module glbl
+# 
+# Top level modules:
+# 	glbl
+# vsim -L xilinxcorelib_ver -L unisims_ver -L unimacro_ver -L secureip -lib work -voptargs=\"+acc\" -t 1ps work.test_top glbl 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# 
+# Loading work.test_top(fast)
+# Loading work.top(fast)
+# Loading work.fifo_32x512(fast)
+# Loading xilinxcorelib_ver.FIFO_GENERATOR_V9_2(fast)
+# Loading xilinxcorelib_ver.FIFO_GENERATOR_V9_2_CONV_VER(fast)
+# Loading xilinxcorelib_ver.fifo_generator_v9_2_bhv_ver_ss(fast)
+# Loading work.top_cpu(fast)
+# Loading work.inst_mem(fast)
+# Loading work.memtest(fast)
+# Loading unisims_ver.RAM32M(fast)
+# Loading work.regfile(fast)
+# Loading work.memtest_regfile(fast)
+# Loading work.alu_core(fast)
+# Loading unisims_ver.DSP48E1(fast)
+# Loading work.glbl(fast)
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+#  
+run 2000ns
+add wave -position end  sim:/test_top/uut/counter
+add wave -position end  sim:/test_top/uut/input_fifo_wren
+restart
+# Loading work.test_top(fast)
+# Loading work.top(fast)
+# Loading work.fifo_32x512(fast)
+# Loading xilinxcorelib_ver.FIFO_GENERATOR_V9_2(fast)
+# Loading xilinxcorelib_ver.FIFO_GENERATOR_V9_2_CONV_VER(fast)
+# Loading xilinxcorelib_ver.fifo_generator_v9_2_bhv_ver_ss(fast)
+# Loading work.top_cpu(fast)
+# Loading work.inst_mem(fast)
+# Loading work.memtest(fast)
+# Loading unisims_ver.RAM32M(fast)
+# Loading work.regfile(fast)
+# Loading work.memtest_regfile(fast)
+# Loading work.alu_core(fast)
+# Loading unisims_ver.DSP48E1(fast)
+# Loading work.glbl(fast)
+run 2000ns
+run 2000ns
+vlog top.v
+# Model Technology ModelSim SE-64 vlog 10.1 Compiler 2011.12 Dec  5 2011
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+restart
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# 
+# Loading work.test_top(fast)
+# Loading work.top(fast)
+# Loading work.fifo_32x512(fast)
+# Loading xilinxcorelib_ver.FIFO_GENERATOR_V9_2(fast)
+# Loading xilinxcorelib_ver.FIFO_GENERATOR_V9_2_CONV_VER(fast)
+# Loading xilinxcorelib_ver.fifo_generator_v9_2_bhv_ver_ss(fast)
+# Loading work.top_cpu(fast)
+# Loading work.inst_mem(fast)
+# Loading work.memtest(fast)
+# Loading unisims_ver.RAM32M(fast)
+# Loading work.regfile(fast)
+# Loading work.memtest_regfile(fast)
+# Loading work.alu_core(fast)
+# Loading unisims_ver.DSP48E1(fast)
+# Loading work.glbl(fast)
+run 4000ns
+add wave -position end  sim:/test_top/uut/instruction
+add wave -position end  sim:/test_top/uut/instruction_d1
+add wave -position end  sim:/test_top/uut/instruction_d2
+restart
+# Loading work.test_top(fast)
+# Loading work.top(fast)
+# Loading work.fifo_32x512(fast)
+# Loading xilinxcorelib_ver.FIFO_GENERATOR_V9_2(fast)
+# Loading xilinxcorelib_ver.FIFO_GENERATOR_V9_2_CONV_VER(fast)
+# Loading xilinxcorelib_ver.fifo_generator_v9_2_bhv_ver_ss(fast)
+# Loading work.top_cpu(fast)
+# Loading work.inst_mem(fast)
+# Loading work.memtest(fast)
+# Loading unisims_ver.RAM32M(fast)
+# Loading work.regfile(fast)
+# Loading work.memtest_regfile(fast)
+# Loading work.alu_core(fast)
+# Loading unisims_ver.DSP48E1(fast)
+# Loading work.glbl(fast)
+run 4000ns
