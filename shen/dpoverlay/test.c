@@ -61,9 +61,9 @@ int main(int argc, char *argv[]) {
 	printf("Execution time is %f us\n\r", (double)1000000*(tend.tv_sec-tstart.tv_sec)+(tend.tv_usec-tstart.tv_usec));//(tv2.tv_usec - tv1.tv_usec));// / 1000000 + (double)(tv2.tv_sec - tv1.tv_sec));
 //	printf("Writing FIFO spend %f us\n\r", (double)1000000*(tv1.tv_sec-tstart.tv_sec)+(tv1.tv_usec-tstart.tv_usec));	
 
-	for(i=0; i<N/4; i++){
-		printf("i/p is %d , o/p is %d \n\r",array_input[i],array_hardware[i]);
-	}
+//	for(i=0; i<N/4; i++){
+//		printf("i/p is %d , o/p is %d \n\r",array_input[i],array_hardware[i]);
+//	}
 
 	return 0;
 }
